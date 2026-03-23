@@ -24,6 +24,8 @@ Six interactive scenes demonstrate the board's peripherals:
 
 Navigation sounds only play when audio is enabled. A status bar at the bottom of every scene shows audio state and current scene number.
 
+https://github.com/user-attachments/assets/038a5f96-5b88-49f7-a4ca-1698bde3e856
+
 ## Hardware
 
 **Board:** LAFVIN Pico 2 Development Kit with integrated 3.5" capacitive touch TFT
