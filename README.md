@@ -1,4 +1,4 @@
-# LAFVIN Pico 2 Dev Kit — Interactive Display Demo
+# LAFVIN Pico 2 Dev Kit — Interactive Display Demo - https://www.amazon.com/dp/B0G7F6Y1BB
 
 An interactive hardware showcase for the **LAFVIN Pico 2 Development Kit**, driving a 3.5" ILI9488 480×320 TFT display over SPI from the RP2350 microcontroller. Uses a framebuffer architecture adapted from [Tutorial-OS](https://github.com/nicktasios/tutorial-os) to render graphics into an RGB565 shadow buffer in SRAM, then push frames to the display as RGB666 over SPI.
 
