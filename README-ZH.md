@@ -1,4 +1,4 @@
-# LAFVIN Pico 2 开发套件 — 交互式显示演示
+# LAFVIN Pico 2 开发套件 — 交互式显示演示 - https://www.amazon.com/dp/B0G7F6Y1BB
 
 基于 **LAFVIN Pico 2 开发套件** 的交互式硬件演示项目，通过 SPI 总线由 RP2350 微控制器驱动 3.5 英寸 ILI9488 480×320 TFT 显示屏。采用源自 [Tutorial-OS](https://github.com/nicktasios/tutorial-os) 的帧缓冲架构，将图形渲染至 SRAM 中的 RGB565 影子缓冲区，再以 RGB666 格式通过 SPI 推送至显示屏。
 
