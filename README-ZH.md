@@ -24,6 +24,8 @@
 
 仅在音频开启时播放导航提示音。每个场景底部的状态栏显示音频状态和当前场景编号。
 
+https://github.com/user-attachments/assets/038a5f96-5b88-49f7-a4ca-1698bde3e856
+
 ## 硬件
 
 **开发板：** LAFVIN Pico 2 开发套件，集成 3.5 英寸电容触摸 TFT 屏幕
